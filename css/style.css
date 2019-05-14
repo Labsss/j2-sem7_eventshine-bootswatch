@@ -14,3 +14,29 @@
     color: #fff;
     text-align: center;
   }
+
+  .img-thumbnail {
+    width: 60px;
+    border-radius: 0.25rem;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .post-comment {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .block-post-comments--style-1 {
+    border: 1px solid #f1f1f1;
+    border-radius: 0.25rem;
+  }
+
+  .block-body {
+      padding: 1.5rem;
+  }
+
+  .block-comment-reply {
+    padding-left: 72px;
+  }
